@@ -1,4 +1,4 @@
-Solutions to Advent Of Code 2024 will be found in this repo.
+Solutions to Advent Of Code 2025 will be found in this repo.
 
 Solutions will be in:
 - Python
