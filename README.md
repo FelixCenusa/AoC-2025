@@ -5,7 +5,7 @@ Solutions will be in:
 
 Solutions will have optimal time & space complexity 
 
-- Day 1  video solution:
+- Day 1  video solution: [https://youtu.be/43sRjatyHRA](https://youtu.be/43sRjatyHRA)
 
 
 Leaderboard code: 3302144-43433e19
